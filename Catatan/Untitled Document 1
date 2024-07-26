@@ -1,0 +1,11 @@
+Payung Otomatis
+Payung berfungi sebagai alat untuk mengurangi air hujan yang dapat membuat genangan air di area tanaman dan sekitarnya.
+Cara Kerja :
+- Payung akan terbuka di saat user memerintahkan payung untuk dibuka lewat ponsel yang mana user akan mendapat peringatan pada ponsel yang berisi pengingatan untuk membuka payung tersebut. 
+Alat dan Bahan :
+- Ponsel --> Ponsel berfungsi untuk memberi tahu user mengenai suhu dan menggerakkan payung untuk dibuka atau ditutup.
+- Payung --> Polyester sebegai bahan untuk membuat payung.
+- Alumunium --> Berfungsi sebagai kerangka payung supaya tidak cepat rusak karena menahan genangan air yang di tahan oleh payung.
+- Tali --> Tali sebagai alat untuk menarik atau menutup payung
+- Katrol (Motor DC) --> Penggerak tali untuk menutup payung
+- Arduino sebagai otak
